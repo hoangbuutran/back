@@ -1,0 +1,69 @@
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll.config
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.pdb
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.dll
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.xml
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.dll
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.pdb
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.csprojResolveAssemblyReference.cache
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll.config
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.pdb
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.csprojResolveAssemblyReference.cache
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.pdb
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll.config
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.pdb
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.csprojResolveAssemblyReference.cache
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.pdb
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll.config
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.pdb
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.csprojResolveAssemblyReference.cache
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.pdb
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll.config
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.pdb
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.csprojResolveAssemblyReference.cache
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll.config
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.csprojResolveAssemblyReference.cache
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll.config
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.pdb

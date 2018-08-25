@@ -1,0 +1,348 @@
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll.config
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.pdb
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\WebGrease.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.pdb
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.csprojResolveAssemblyReference.cache
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.pdb
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Owin.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Cors.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.pdb
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.pdb
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.pdb
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.pdb
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll.config
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.pdb
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Owin.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Cors.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\WebGrease.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.pdb
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.pdb
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.pdb
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.pdb
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.pdb
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.csprojResolveAssemblyReference.cache
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.pdb
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll.config
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.pdb
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Owin.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Cors.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\WebGrease.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.pdb
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.pdb
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.pdb
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.pdb
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.pdb
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.csprojResolveAssemblyReference.cache
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.pdb
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll.config
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.pdb
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Owin.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Cors.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\WebGrease.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.pdb
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.pdb
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.pdb
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.pdb
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.pdb
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.csprojResolveAssemblyReference.cache
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll.config
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Owin.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Cors.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\WebGrease.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.csprojResolveAssemblyReference.cache
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll.config
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Web.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Owin.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Cors.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\WebGrease.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Common.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Data.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Model.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\TakeCareOfThePet.Service.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.Mvc.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Autofac.Integration.WebApi.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\EntityFramework.SqlServer.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Net.Http.Formatting.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.Cors.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Newtonsoft.Json.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Helpers.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Http.WebHost.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Mvc.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Optimization.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.Razor.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\System.Web.WebPages.Razor.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\bin\Antlr3.Runtime.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.csprojResolveAssemblyReference.cache
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Web\obj\Debug\TakeCareOfThePet.Web.pdb

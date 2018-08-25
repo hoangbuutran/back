@@ -1,0 +1,69 @@
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.dll
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.pdb
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.dll
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.pdb
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.dll
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Owin.dll
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.xml
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\CS447\Backend\BackEndAppLanHaiNCKH\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.csprojResolveAssemblyReference.cache
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.pdb
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Owin.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.csprojResolveAssemblyReference.cache
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.dll
+E:\file public web\test\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.pdb
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.pdb
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Owin.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.csprojResolveAssemblyReference.cache
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.dll
+E:\CS447\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.pdb
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.pdb
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Owin.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.csprojResolveAssemblyReference.cache
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.dll
+E:\Nghiên Cứu Khoa Học 2\Webservice\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.pdb
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.pdb
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Owin.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.csprojResolveAssemblyReference.cache
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.dll
+E:\file public web\lanba\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Owin.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.csprojResolveAssemblyReference.cache
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceChuan\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.pdb
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Owin.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.dll
+E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.pdb

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{07FEF7D1-F8B5-4474-8D84-B84C2068FC67}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TakeCareOfThePet.Service</RootNamespace>
+    <AssemblyName>TakeCareOfThePet.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaiVietService.cs" />
+    <Compile Include="BinhLuanService.cs" />
+    <Compile Include="CanNangService.cs" />
+    <Compile Include="ChiTietHoaDonService.cs" />
+    <Compile Include="ChuyenMucService.cs" />
+    <Compile Include="CoSoThuYService.cs" />
+    <Compile Include="DichVuService.cs" />
+    <Compile Include="ErrorService.cs" />
+    <Compile Include="GioiThieuService.cs" />
+    <Compile Include="GiongThuCungService.cs" />
+    <Compile Include="HinhAnhSanPhamService.cs" />
+    <Compile Include="HoaDonService.cs" />
+    <Compile Include="HoatDongService.cs" />
+    <Compile Include="LichSuKhamService.cs" />
+    <Compile Include="LikeService.cs" />
+    <Compile Include="LoaiSanPhamService.cs" />
+    <Compile Include="NguoiDungService.cs" />
+    <Compile Include="PhieuHenKhamService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuyenService.cs" />
+    <Compile Include="SanPhamService.cs" />
+    <Compile Include="ShopService.cs" />
+    <Compile Include="SucKhoeThuCungService.cs" />
+    <Compile Include="TaiKhoanService.cs" />
+    <Compile Include="ThongKeBaoCaoService.cs" />
+    <Compile Include="ThuCungService.cs" />
+    <Compile Include="TinhTrangService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TakeCareOfThePet.Common\TakeCareOfThePet.Common.csproj">
+      <Project>{a8669439-963a-4848-866b-c4ac1ab73738}</Project>
+      <Name>TakeCareOfThePet.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TakeCareOfThePet.Data\TakeCareOfThePet.Data.csproj">
+      <Project>{52699b40-4dfb-45dd-904d-b9734d549f6e}</Project>
+      <Name>TakeCareOfThePet.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TakeCareOfThePet.Model\TakeCareOfThePet.Model.csproj">
+      <Project>{0f5b5cc4-63c2-4a82-9b87-9b2eaefbe582}</Project>
+      <Name>TakeCareOfThePet.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

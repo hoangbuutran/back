@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52699B40-4DFB-45DD-904D-B9734D549F6E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TakeCareOfThePet.Data</RootNamespace>
+    <AssemblyName>TakeCareOfThePet.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataBaseAppPetDbContext.cs" />
+    <Compile Include="Infrastructure\DbFactory.cs" />
+    <Compile Include="Infrastructure\Disposable.cs" />
+    <Compile Include="Infrastructure\IDbFactory.cs" />
+    <Compile Include="Infrastructure\IRepository.cs" />
+    <Compile Include="Infrastructure\IUnitOfWork.cs" />
+    <Compile Include="Infrastructure\RepositoryBase.cs" />
+    <Compile Include="Infrastructure\UnitOfWork.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\BaiVietRepository.cs" />
+    <Compile Include="Repositories\BinhLuanRepository.cs" />
+    <Compile Include="Repositories\CanNangRepository.cs" />
+    <Compile Include="Repositories\ChiTietHoaDonRepository.cs" />
+    <Compile Include="Repositories\ChuyenMucRepository.cs" />
+    <Compile Include="Repositories\CoSoThuYRepository.cs" />
+    <Compile Include="Repositories\DichVuRepository.cs" />
+    <Compile Include="Repositories\ErrorRepository.cs" />
+    <Compile Include="Repositories\GioiThieuRepository.cs" />
+    <Compile Include="Repositories\GiongThuCungRepository.cs" />
+    <Compile Include="Repositories\HinhAnhSanPhamRepository.cs" />
+    <Compile Include="Repositories\HoaDonRepository.cs" />
+    <Compile Include="Repositories\HoatDongRepository.cs" />
+    <Compile Include="Repositories\LichSuKhamRepository.cs" />
+    <Compile Include="Repositories\LikeRepository.cs" />
+    <Compile Include="Repositories\LoaiSanPhamRepository.cs" />
+    <Compile Include="Repositories\NguoiDungRepository.cs" />
+    <Compile Include="Repositories\PhieuHenKhamRepository.cs" />
+    <Compile Include="Repositories\QuyenRepository.cs" />
+    <Compile Include="Repositories\SanPhamRepository.cs" />
+    <Compile Include="Repositories\ShopRepository.cs" />
+    <Compile Include="Repositories\SucKhoeThuCungRepository.cs" />
+    <Compile Include="Repositories\TaiKhoanRepository.cs" />
+    <Compile Include="Repositories\ThongKeBaoCaoRepository.cs" />
+    <Compile Include="Repositories\ThuCungRepository.cs" />
+    <Compile Include="Repositories\TinhTrangRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TakeCareOfThePet.Common\TakeCareOfThePet.Common.csproj">
+      <Project>{a8669439-963a-4848-866b-c4ac1ab73738}</Project>
+      <Name>TakeCareOfThePet.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TakeCareOfThePet.Model\TakeCareOfThePet.Model.csproj">
+      <Project>{0f5b5cc4-63c2-4a82-9b87-9b2eaefbe582}</Project>
+      <Name>TakeCareOfThePet.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
