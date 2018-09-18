@@ -209,6 +209,35 @@ namespace TakeCareOfThePet.Web.Controllers
         }
         #endregion
 
+
+        #region phieuvoingay
+        [Route("phieu-voi-ngay")]
+        [HttpPost]
+        public HttpResponseMessage PhieuVoiNgay(HttpRequestMessage request, PhieuVoiNgay phieuVoiNgay)
+        {
+            PhieuHenKham phieuHenKhamList = null;
+            try
+            {
+                phieuHenKhamList = _phieuHenKhamService.listPhieuVoiNgay(phieuVoiNgay);  
+                if (phieuHenKhamList != null)
+                {
+                    Message = "ds Phieu Hen Kham voi ngay";
+                    _phieuHenKhamService.SaveChange();
+                }
+                else
+                {
+                    throw new DbEntityValidationException("ds Phieu Hen Kham voi ngay");
+                }
+            }
+            catch (DbEntityValidationException ex)
+            {
+                LogException(ex);
+            }
+            return GetResponseMessage(IsSuccess, Message, 1, phieuHenKhamList);
+        }
+        #endregion
+
+
         #region delete
         [Route("delete/{id:int}")]
         [HttpGet]

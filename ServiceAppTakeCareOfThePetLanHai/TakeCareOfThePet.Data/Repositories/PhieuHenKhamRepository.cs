@@ -10,12 +10,18 @@ namespace TakeCareOfThePet.Data.Repositories
 {
     public interface IPhieuHenKhamRepository : IRepository<PhieuHenKham>
     {
-
+        List<PhieuHenKham> listPhieuVoiNgay(int idThuY, DateTime ngay);
     }
     public class PhieuHenKhamRepository: RepositoryBase<PhieuHenKham>, IPhieuHenKhamRepository
     {
         public PhieuHenKhamRepository(IDbFactory dbFactory) : base(dbFactory)
         {
         }
+
+        public List<PhieuHenKham> listPhieuVoiNgay(int idThuY, DateTime ngay)
+        {
+            return DbContext.PhieuHenKhams.Where(x => x.IdCoSoThuY != idThuY && x.NgayHenKham == ngay);
+        }
+
     }
 }

@@ -19,8 +19,10 @@ namespace TakeCareOfThePet.Service
         void DuyetPhieuHenKham(int id);
         void TuChoiPhieuHenKham(int id);
         PhieuHenKham Delete(int id);
+        List<PhieuHenKham> listPhieuVoiNgay(int idThuY, DateTime ngay);
         void SaveChange();
     }
+    
     public class PhieuHenKhamService : IPhieuHenKhamService
     {
         private readonly IPhieuHenKhamRepository _phieuHenKhamRepository;
@@ -96,6 +98,11 @@ namespace TakeCareOfThePet.Service
         public PhieuHenKham Delete(int id)
         {
             return _phieuHenKhamRepository.Delete(id);
+        }
+
+        public List<PhieuHenKham> listPhieuVoiNgay(int idThuY, DateTime ngay)
+        {
+            return _phieuHenKhamRepository.listPhieuVoiNgay(int idThuY, DateTime ngay);
         }
 
         public void SaveChange()
