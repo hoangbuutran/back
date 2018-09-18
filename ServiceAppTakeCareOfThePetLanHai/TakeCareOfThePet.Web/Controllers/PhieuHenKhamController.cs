@@ -5,6 +5,7 @@ using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Cors;
 using TakeCareOfThePet.Model.Models;
+using TakeCareOfThePet.Common.ModelChung;
 using TakeCareOfThePet.Service;
 using TakeCareOfThePet.Web.Infrastructure.Core;
 
@@ -215,10 +216,12 @@ namespace TakeCareOfThePet.Web.Controllers
         [HttpPost]
         public HttpResponseMessage PhieuVoiNgay(HttpRequestMessage request, PhieuVoiNgay phieuVoiNgay)
         {
-            PhieuHenKham phieuHenKhamList = null;
+            List<PhieuHenKham> phieuHenKhamList = null;
+            int coutPhieu = 0;
             try
             {
-                phieuHenKhamList = _phieuHenKhamService.listPhieuVoiNgay(phieuVoiNgay);  
+                phieuHenKhamList = _phieuHenKhamService.ListPhieuVoiNgay(phieuVoiNgay.IdCoSoThuY, phieuVoiNgay.NgayHenKham);
+                coutPhieu = phieuHenKhamList.Count;
                 if (phieuHenKhamList != null)
                 {
                     Message = "ds Phieu Hen Kham voi ngay";
@@ -233,7 +236,7 @@ namespace TakeCareOfThePet.Web.Controllers
             {
                 LogException(ex);
             }
-            return GetResponseMessage(IsSuccess, Message, 1, phieuHenKhamList);
+            return GetResponseMessage(IsSuccess, Message, coutPhieu, phieuHenKhamList);
         }
         #endregion
 

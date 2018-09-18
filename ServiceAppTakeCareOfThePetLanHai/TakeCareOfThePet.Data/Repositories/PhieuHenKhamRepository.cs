@@ -20,7 +20,7 @@ namespace TakeCareOfThePet.Data.Repositories
 
         public List<PhieuHenKham> listPhieuVoiNgay(int idThuY, DateTime ngay)
         {
-            return DbContext.PhieuHenKhams.Where(x => x.IdCoSoThuY != idThuY && x.NgayHenKham == ngay);
+            return DbContext.PhieuHenKhams.Where(x => x.IdCoSoThuY == idThuY && x.NgayHenKham == ngay).ToList();
         }
 
     }

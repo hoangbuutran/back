@@ -67,3 +67,15 @@ E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\Ta
 E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
 E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.dll
 E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.pdb
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.pdb
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Owin.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.xml
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.csprojAssemblyReference.cache
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.csproj.CoreCompileInputs.cache
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.csproj.CopyComplete
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.pdb

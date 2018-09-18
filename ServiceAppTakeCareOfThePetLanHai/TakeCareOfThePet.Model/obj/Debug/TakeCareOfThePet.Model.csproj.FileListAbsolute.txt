@@ -67,3 +67,15 @@ E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\Ta
 E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.xml
 E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.dll
 E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.pdb
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll.config
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.pdb
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.xml
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.csprojAssemblyReference.cache
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.csproj.CoreCompileInputs.cache
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.csproj.CopyComplete
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.pdb

@@ -52,6 +52,7 @@
     <Compile Include="MailHelper.cs" />
     <Compile Include="ModelChung\DoiMatKhauModel.cs" />
     <Compile Include="ModelChung\LoginModel.cs" />
+    <Compile Include="ModelChung\PhieuVoiNgay.cs" />
     <Compile Include="ModelChung\SendEmailModel.cs" />
     <Compile Include="ModelChung\ThongKeHoaDon.cs" />
     <Compile Include="ModelChung\ThongKeSanPham10SPMax.cs" />

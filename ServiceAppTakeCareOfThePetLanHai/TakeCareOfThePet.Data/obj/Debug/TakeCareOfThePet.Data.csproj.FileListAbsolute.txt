@@ -96,3 +96,20 @@ E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\Ta
 E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\obj\Debug\TakeCareOfThePet.Data.csprojResolveAssemblyReference.cache
 E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\obj\Debug\TakeCareOfThePet.Data.dll
 E:\Nghiên Cứu Khoa Học 2\ServiceNangCao\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\obj\Debug\TakeCareOfThePet.Data.pdb
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\obj\Debug\TakeCareOfThePet.Data.csprojAssemblyReference.cache
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\obj\Debug\TakeCareOfThePet.Data.csproj.CoreCompileInputs.cache
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\obj\Debug\TakeCareOfThePet.Data.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\obj\Debug\TakeCareOfThePet.Data.pdb
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\TakeCareOfThePet.Data.dll.config
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\TakeCareOfThePet.Data.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\TakeCareOfThePet.Data.pdb
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\EntityFramework.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\TakeCareOfThePet.Common.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\TakeCareOfThePet.Model.dll
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\TakeCareOfThePet.Common.pdb
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\TakeCareOfThePet.Model.pdb
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\TakeCareOfThePet.Model.dll.config
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\EntityFramework.xml
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\obj\Debug\TakeCareOfThePet.Data.csproj.CopyComplete

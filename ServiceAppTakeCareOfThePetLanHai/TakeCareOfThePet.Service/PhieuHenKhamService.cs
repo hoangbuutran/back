@@ -102,7 +102,7 @@ namespace TakeCareOfThePet.Service
 
         public List<PhieuHenKham> listPhieuVoiNgay(int idThuY, DateTime ngay)
         {
-            return _phieuHenKhamRepository.listPhieuVoiNgay(int idThuY, DateTime ngay);
+            return _phieuHenKhamRepository.listPhieuVoiNgay(idThuY, ngay);
         }
 
         public void SaveChange()
