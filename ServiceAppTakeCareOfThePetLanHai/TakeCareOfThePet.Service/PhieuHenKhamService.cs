@@ -102,7 +102,7 @@ namespace TakeCareOfThePet.Service
 
         public List<PhieuHenKham> listPhieuVoiNgay(int idThuY, DateTime ngay)
         {
-            return _phieuHenKhamRepository.listPhieuVoiNgay(idThuY, ngay);
+            return _phieuHenKhamRepository.GetMulti(x => x.IdCoSoThuY == idThuY && x.NgayHenKham == ngay && x.TinhTrang == true, new string[] { "DichVu" }).ToList();
         }
 
         public void SaveChange()

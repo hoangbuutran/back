@@ -220,7 +220,7 @@ namespace TakeCareOfThePet.Web.Controllers
             int coutPhieu = 0;
             try
             {
-                phieuHenKhamList = _phieuHenKhamService.ListPhieuVoiNgay(phieuVoiNgay.IdCoSoThuY, phieuVoiNgay.NgayHenKham);
+                phieuHenKhamList = _phieuHenKhamService.listPhieuVoiNgay(phieuVoiNgay.IdCoSoThuY, phieuVoiNgay.NgayHenKham);
                 coutPhieu = phieuHenKhamList.Count;
                 if (phieuHenKhamList != null)
                 {

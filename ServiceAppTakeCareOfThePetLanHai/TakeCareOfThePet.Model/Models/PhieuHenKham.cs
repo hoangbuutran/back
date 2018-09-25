@@ -31,6 +31,8 @@ namespace TakeCareOfThePet.Model.Models
 
         public bool? TinhTrang { get; set; }
 
+        public virtual DichVu DichVu { get; set; }
+
         public virtual CoSoThuY CoSoThuY { get; set; }
 
         public virtual NguoiDung NguoiDung { get; set; }
