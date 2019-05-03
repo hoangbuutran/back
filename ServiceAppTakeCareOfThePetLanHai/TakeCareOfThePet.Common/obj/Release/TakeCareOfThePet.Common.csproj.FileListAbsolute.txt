@@ -1,0 +1,10 @@
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Release\TakeCareOfThePet.Common.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Release\TakeCareOfThePet.Common.pdb
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Release\Microsoft.Owin.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Release\Owin.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Release\Microsoft.Owin.xml
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Release\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Release\TakeCareOfThePet.Common.csprojResolveAssemblyReference.cache
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Release\TakeCareOfThePet.Common.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Release\TakeCareOfThePet.Common.pdb

@@ -23,6 +23,9 @@ namespace TakeCareOfThePet.Model.Models
         [StringLength(900)]
         public string TenSanPham { get; set; }
 
+        [StringLength(900)]
+        public string HinhAnhChinh { get; set; }
+
         public int? IdLoaiSanPham { get; set; }
 
         public int? IdShop { get; set; }

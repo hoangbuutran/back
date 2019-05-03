@@ -20,11 +20,13 @@ namespace TakeCareOfThePet.Web.Controllers
         #region Khởi tạo
 
         private readonly ISanPhamService _sanPhamService;
+        private readonly IHinhAnhSanPhamService _hinhAnhSanPhamService;
 
-        public SanPhamController(IErrorService errorService, ISanPhamService sanPhamService)
+        public SanPhamController(IErrorService errorService, ISanPhamService sanPhamService, IHinhAnhSanPhamService hinhAnhSanPhamService)
             : base(errorService)
         {
             _sanPhamService = sanPhamService;
+            _hinhAnhSanPhamService = hinhAnhSanPhamService;
         }
         #endregion
 
@@ -144,6 +146,38 @@ namespace TakeCareOfThePet.Web.Controllers
                 sanPhamSingler = _sanPhamService.GetById(id);
                 if (sanPhamSingler != null)
                 {
+                    Message = "Thông tin sản phẩm với id: " + id;
+                }
+                else
+                {
+                    throw new DbEntityValidationException(string.Format("Không tìm kiếm được sản phẩm với id {0}", id));
+                }
+            }
+            catch (DbEntityValidationException ex)
+            {
+                LogException(ex);
+            }
+            return GetResponseMessage(IsSuccess, Message, 1, sanPhamSingler);
+        }
+        #endregion
+
+        #region imageforbyid
+        [Route("imageforsanphambyid/{id:int}")]
+        [HttpGet]
+        public HttpResponseMessage ImageForSanPhamById(HttpRequestMessage request, int id)
+        {
+            SanPham sanPhamSingler = null;
+            try
+            {
+                sanPhamSingler = _sanPhamService.GetById(id);
+                if (sanPhamSingler != null)
+                {
+                    if (sanPhamSingler.HinhAnhSanPhams.ToList().Count > 0)
+                    {
+                        sanPhamSingler.HinhAnhChinh = sanPhamSingler.HinhAnhSanPhams.ToList().First().LinkHinhAnh;
+                        _sanPhamService.Update(sanPhamSingler);
+                        _sanPhamService.SaveChange();
+                    }
                     Message = "Thông tin sản phẩm với id: " + id;
                 }
                 else

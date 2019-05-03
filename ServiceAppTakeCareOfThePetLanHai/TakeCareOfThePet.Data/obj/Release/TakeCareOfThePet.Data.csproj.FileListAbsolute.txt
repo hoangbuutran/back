@@ -1,0 +1,14 @@
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Release\TakeCareOfThePet.Data.dll.config
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Release\TakeCareOfThePet.Data.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Release\TakeCareOfThePet.Data.pdb
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Release\EntityFramework.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Release\TakeCareOfThePet.Common.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Release\TakeCareOfThePet.Model.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Release\TakeCareOfThePet.Common.pdb
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Release\TakeCareOfThePet.Model.pdb
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Release\EntityFramework.xml
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\obj\Release\TakeCareOfThePet.Data.csprojResolveAssemblyReference.cache
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\obj\Release\TakeCareOfThePet.Data.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Data\obj\Release\TakeCareOfThePet.Data.pdb

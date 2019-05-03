@@ -79,3 +79,12 @@ C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfTh
 C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.csproj.CopyComplete
 C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.dll
 C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.pdb
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll.config
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\TakeCareOfThePet.Model.pdb
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.xml
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Debug\TakeCareOfThePet.Model.pdb

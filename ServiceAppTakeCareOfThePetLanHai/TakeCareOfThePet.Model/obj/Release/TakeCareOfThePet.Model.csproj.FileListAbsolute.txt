@@ -1,0 +1,9 @@
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Release\TakeCareOfThePet.Model.dll.config
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Release\TakeCareOfThePet.Model.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Release\TakeCareOfThePet.Model.pdb
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Release\EntityFramework.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Release\EntityFramework.xml
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Release\TakeCareOfThePet.Model.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Model\obj\Release\TakeCareOfThePet.Model.pdb

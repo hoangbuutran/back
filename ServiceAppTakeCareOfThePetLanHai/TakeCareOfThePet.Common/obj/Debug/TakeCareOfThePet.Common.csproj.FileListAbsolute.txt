@@ -79,3 +79,12 @@ C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfTh
 C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.csproj.CopyComplete
 C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.dll
 C:\Users\HoangBuuTran\Desktop\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.pdb
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\TakeCareOfThePet.Common.pdb
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Owin.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.xml
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.dll
+C:\Users\TUANTRAN\Desktop\clone back\back\ServiceAppTakeCareOfThePetLanHai\TakeCareOfThePet.Common\obj\Debug\TakeCareOfThePet.Common.pdb

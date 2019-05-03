@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\publicsWeb\14</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/HelpPage/HelpPage.css">
+      <publishTime>09/26/2018 12:15:11</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Api.cshtml">
+      <publishTime>09/26/2018 12:15:11</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml">
+      <publishTime>09/26/2018 12:15:11</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml">
+      <publishTime>09/26/2018 12:15:11</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml">
+      <publishTime>09/26/2018 12:15:11</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml">
+      <publishTime>09/26/2018 12:15:11</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Index.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/ResourceModel.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Shared/_Layout.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Web.config">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/_ViewStart.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="bin/Autofac.dll">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="bin/Autofac.Integration.Mvc.dll">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="bin/Autofac.Integration.WebApi.dll">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="bin/TakeCareOfThePet.Common.dll">
+      <publishTime>09/26/2018 12:37:10</publishTime>
+    </File>
+    <File Include="bin/TakeCareOfThePet.Data.dll">
+      <publishTime>04/18/2019 08:11:33</publishTime>
+    </File>
+    <File Include="bin/TakeCareOfThePet.Model.dll">
+      <publishTime>04/18/2019 08:11:32</publishTime>
+    </File>
+    <File Include="bin/TakeCareOfThePet.Service.dll">
+      <publishTime>04/18/2019 08:11:33</publishTime>
+    </File>
+    <File Include="bin/TakeCareOfThePet.Web.dll">
+      <publishTime>04/19/2019 19:27:32</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>09/26/2018 12:15:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/12002265_1182715355.png">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/12042887_9182715915.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/12742352_9182716052.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/15253496_3182615559.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/15253496_3182649695.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/15253496_3182716239.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/15268040_3182615844.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/15268040_3182649697.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/29680383_2182752251.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/400_7c2912181513523.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/400_7c2912182715178.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/460_d360c2181513561.png">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/460_d360c2182715325.png">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/footer182833350.png">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/Image617f9181228601.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/imageemyeu181257916.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/imageemyeu183322124.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/imageemyeu183711396.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Images/Zalo_63593181228601.jpg">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/26/2018 12:15:13</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>09/26/2018 12:15:12</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/19/2019 19:27:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

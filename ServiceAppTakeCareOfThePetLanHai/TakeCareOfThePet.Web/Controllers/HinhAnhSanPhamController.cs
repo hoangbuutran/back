@@ -83,6 +83,33 @@ namespace TakeCareOfThePet.Web.Controllers
         }
         #endregion
 
+        #region getonebyidsanpham
+        [Route("getonebyidsanpham/{id:int}")]
+        [HttpGet]
+        public HttpResponseMessage GetOneById(HttpRequestMessage request, int id)
+        {
+            IEnumerable<HinhAnhSanPham> listHinhAnhSanPham = null;
+            List<HinhAnhSanPham> hinhAnhSanPhamList = null;
+            HinhAnhSanPham hinhAnhSanPhamSingler = null;
+            var toTal = 0;
+            try
+            {
+                listHinhAnhSanPham = _hinhAnhSanPhamService.GetAllWithIdSanPham(id);
+                hinhAnhSanPhamList = listHinhAnhSanPham.ToList();
+
+                for (int i = 0; i < hinhAnhSanPhamList.Count; i++)
+                {
+                    hinhAnhSanPhamSingler = hinhAnhSanPhamList[i];
+                    return GetResponseMessage(IsSuccess, Message, 1, hinhAnhSanPhamSingler);
+                }
+            }
+            catch (DbEntityValidationException ex)
+            {
+                LogException(ex);
+            }
+            return GetResponseMessage(IsSuccess, Message, 1, hinhAnhSanPhamSingler);
+        }
+        #endregion
 
         #region create
         [Route("create")]
